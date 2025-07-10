@@ -1,0 +1,75 @@
+Que-1. Which of the following is NOT the component of the CPU?
+Ans. RAM
+
+Que-2. What is the function of RAM in a computer?
+Ans. These are semiconductor memories 
+     It is known as main memory. 
+     Usually volatile memory. 
+     Data is lost in case power is switched off. 
+     It is working memory of the computer. 
+     Faster than secondary memories. 
+     A computer cannot run without primary memory. 
+
+Que-3. Which of the following is a primary storage device?
+Ans. 1 and 2 both.
+
+Que-4. What is the purpose of a GPU?
+Ans. GPU is a specialized processor designed to handle visual output — think      rendering images, animations, and videos — fast and in parallel. But it’s evolved way beyond just graphics.
+
+Que-5. The motherboard is the main circuit board of a computer where the other components are attached.
+Ans.  True
+
+Que-6. A UPS(Uninterruptable Power Supply) is a hardware device that provides emergency power to a load when the input power source fails.
+Ans. True
+
+Que-7. An expansion card is a circuit board that enhances the functionality of a component.
+Ans. True
+
+Que-8. Explain the difference between HDD and SSD?
+Ans. HDD :- 
+     Random Access Memory.
+     Read latency time high.
+     50mbps to 100mbps.
+     Low reliability.
+     HDD have moving parts to fail.
+     Relatively large and heavy.
+     HDD is available upto 4tb.
+     6-12 watts.
+
+     SSD :-
+     Solid State Drive
+     Read latency very low.
+     100mbps to 500mbps.
+     High reliability.
+     SSD has no moving parts.
+     Small and light weight.
+     SSD is available upto 2tb.
+     Power consumption 2 watts.
+
+Que-9. Describe the function of BIOS in a computer system.
+Ans. Instructions used to start the computer system from a cold start.
+     The BIOS instructions are written on non-volatile ram.
+     EEP-ROM is the common media choice for the BIOS installed on motherboard.
+     The BIOS instructions are based on the chip-set installed on the        motherboard.
+
+Que-10. List and briefly explain three input devices commonly used with computers.
+Ans. 1) Keyboard
+     2) Mouse
+     3) Joystick
+
+1) Keyboard :- A primary input device used to type text, numbers, and commands.
+            Has keys for letters (A–Z), digits (0–9), function keys (F1–F12),  	   	    control keys (Ctrl, Alt, etc.), and navigation.
+            Essential for coding, writing, shortcuts, and pretty much everything 	    digital.
+            Types: Mechanical, Membrane, Wireless, Ergonomic. 
+
+2) Mouse :- A pointing device used to control the on-screen cursor.
+	    Lets you click, drag, scroll, and interact with GUI elements.
+	    Has buttons (left/right), a scroll wheel, and may include side 		    buttons or gestures.
+	    Types: Optical, Laser, Wireless, Gaming Mouse with DPI control.
+
+3) Joystick :- An input device mostly used in gaming and simulations (like flight 	       sims).
+	       Controls direction and movement with a stick that moves in 		       multiple axes.
+	       Often includes buttons and triggers for in-game actions.
+	       Used in aviation training, robotics, and accessibility tech too.
+
+
