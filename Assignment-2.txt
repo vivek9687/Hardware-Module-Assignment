@@ -1,0 +1,205 @@
+Que-1. Which of the following precautions should be taken before working on computer hardware?
+Ans. Wear an anti-static wrist strap to prevent damage from electrostatic discharge.
+
+Que-2. What is the purpose of thermal paste during CPU installation?
+Ans. To improve the thermal conductivity between the CPU and heat sink.
+
+Que-3. Which tool is used to measure the output voltage of a power supply unit(PSU)?
+Ans. Multimeter.
+
+Que-4. Which component is responsible for storing BIOS settings, such as date and time, even when the computer is powered off?
+Ans. CMOS Battery.
+
+Que-5. When installing a new hard drive, it is essential to format it before use.
+Ans. True.
+
+Que-6. A POST(Power On Self-Test) error indicates a problem with the CPU.
+Ans. False.
+
+Que-7. It is safe to remove a USB flash drive from a computer without ejecting it first.
+Ans. False. 
+
+Que-8. Describe the steps involved in installing a new graphics card in a desktop computer.
+Ans. 1. Power down & Unplug.
+     2. Ground Yourself.
+     3. Open the case.
+     4. Locate the PCIe x16 Slot.
+     5. Remove expansion slot covers.
+     6. Insert the new graphics card.
+     7. Connect power cables.
+     8. Close the case.
+     9. Plug in & Boot-up.
+    10. Install drivers.
+
+Que-9. What is RAID, and what are some common RAID configurations?
+Ans. RAID stands for Redundant Array of Independent (or Inexpensive) Disks.
+     It’s a data storage virtualization technology that combines multiple physical        drives into one logical unit for performance, redundancy, or both.
+
+     Think of it like a squad of drives working together like a team — some focus on        speed, others on backup, and some do both.
+
+     Redundancy = protection from drive failure (fail-safe).
+     Speed = better read/write performance (data hustle).
+     Scalability = more storage and flexibility.
+
+     Common RAID Configurations:
+     1. RAID 0 – Striping
+     Performance beast, No redundancy.
+
+     Data is split across 2+ drives — faster read/write speeds.
+
+     If one drive fails? You lose everything.
+     Use case: video editing, gaming (where speed is king, and data isn’t mission- critical).
+
+     2. RAID 1 – Mirroring
+     Full redundancy, Storage space cut in half.
+
+     Data is mirrored (duplicated) across two drives.
+
+     One fails? You’re still chillin' — data's safe on the other.
+     
+     Use case: important documents, servers, personal backups.
+
+     3. RAID 5 – Striping with Parity
+     Balanced speed + redundancy, needs 3+ drives.
+
+     Data is striped across drives, with parity data for recovery.
+
+     Can survive 1 drive failure.
+
+     Use case: medium-sized servers, NAS setups.
+
+     4. RAID 6 – Striping with Dual Parity
+     Like RAID 5, but can survive 2 drive failures.
+
+     High fault tolerance, Slower write performance.
+
+     Needs 4+ drives.
+
+     Use case: enterprise-grade storage with mission-critical data.
+
+     5. RAID 10 (1+0) – Mirrored Striping
+     Combines RAID 0 speed + RAID 1 redundancy.
+
+     Needs at least 4 drives.
+
+     High speed + redundancy, Higher cost (half usable storage).
+
+     Use case: high-performance databases, gaming servers, virtualization.
+
+Que-10. Demonstrate how to replace a CPU fan in a desktop computer.
+Ans. 1. Power Off and Unplug
+	Shut down the computer properly.
+	Unplug the power cable from the wall and switch off the power supply.
+	Wait a few minutes to ensure any residual electricity discharges.
+
+     2. Ground Yourself
+	Wear an anti-static wrist strap or touch a grounded metal object to prevent 	electrostatic discharge that could damage components.
+
+     3. Open the Case
+	Use a screwdriver to remove the side panel (typically the left side).
+	Lay the case flat on its side so the motherboard is facing up.
+
+     4. Locate the CPU Fan
+	Find the CPU cooler on top of the processor socket on the motherboard.
+	It will be connected to the CPU_FAN header via a small 4-pin (or sometimes 3-	pin) cable.
+
+     5. Disconnect the Fan Cable
+	Gently unplug the fan's power cable from the motherboard header.
+
+     6. Remove the Old CPU Fan and Heatsink
+	Depending on the type of cooler:
+	For stock Intel or AMD coolers, unscrew or unclip the mounting system.
+	Carefully twist the heatsink slightly to loosen thermal paste if it feels 	stuck — never yank it straight up.
+	Lift the fan and heatsink off the CPU.
+
+     7. Clean Off Old Thermal Paste
+	Use isopropyl alcohol (90% or higher) and a lint-free cloth or paper towel to 	clean the old thermal paste from both the CPU and the bottom of the heatsink 	or fan base.
+
+	Let it dry completely.
+
+     8. Apply New Thermal Paste
+	Apply a small, pea-sized amount of thermal paste in the center of the CPU.
+	No need to spread it — the pressure of the heatsink will do that.
+
+     9. Install the New CPU Fan
+	Align the new fan and heatsink with the CPU socket.
+	Carefully lower it straight down onto the CPU.
+	Secure it using the mounting mechanism (screws, clips, or brackets, depending 	on the cooler type).
+
+    10. Reconnect the Fan Cable
+	Plug the fan’s power cable into the CPU_FAN header on the motherboard.
+
+    11. Close the Case and Power On
+	Reattach the side panel.
+	Plug in the power cable and turn on the PSU.
+
+	Boot the PC and enter BIOS or use monitoring software to verify the new fan 	is running and temperatures are stable. 
+
+Que-11. Discuss the importance of regular maintenance for computer hardware and provide examples of maintenance tasks.
+Ans. Why Regular Hardware Maintenance Matters
+     1. Maximizes Lifespan
+	Hardware doesn’t last forever — dust, heat, and mechanical wear all shorten 	its life. Maintenance helps prevent early death of components like fans, hard 	drives, and power supplies.
+
+     2. Boosts Performance
+	A clean, well-maintained system runs smoother. Dust and heat throttle 	performance. Loose connections can cause random shutdowns. Regular check-ups 	keep it snappy.
+
+     3. Prevents Downtime
+	A failed drive or overheating GPU at the wrong moment? Say goodbye to 	productivity or that all-night Valorant session. Maintenance reduces 	unexpected failures.
+
+     4. Protects Data
+	Drives degrade silently. Without checks, you won’t see failure coming until 	it’s too late. Regular health scans and backups protect your digital assets.
+
+Common Hardware Maintenance Tasks
+     1. Dust Removal
+	Use compressed air or an anti-static vacuum to blow out dust from:
+
+	CPU fans
+
+	GPU
+
+	Power supply
+
+	Motherboard and case vents
+
+	Frequency: Every 1–3 months, depending on your environment.
+
+     2. Check and Replace Thermal Paste
+	Over time, thermal paste dries out, reducing CPU and GPU cooling efficiency.
+
+	Reapply every 1–2 years or when temperatures spike.
+
+     3. Inspect Fans and Cooling Systems
+	Make sure all fans are spinning freely, not making noise, and not clogged.
+
+	Replace any worn-out fans immediately.
+
+     4. Cable Management
+	Clean and re-route cables to improve airflow and reduce the risk of 	disconnection or interference.
+
+     5. Hard Drive/SSD Health Check
+	Use SMART tools (e.g., CrystalDiskInfo) to monitor health.
+
+	Watch for bad sectors, high temps, or weird noises in HDDs.
+
+     6. Check for Loose Connections
+	Inspect RAM, GPU, storage, and power cables to ensure they're properly 	seated.
+
+     7. Update BIOS/Firmware
+	Periodically update your motherboard BIOS and firmware for SSDs or 	peripherals. Just don’t rush it — always follow manufacturer instructions.
+
+     8. Power Supply Check
+	Make sure your PSU fan is running.
+
+	Check for dust buildup, capacitor bulges, or odd smells.
+
+	Advanced Maintenance (Optional But Smart)
+	Run memory diagnostics (e.g., MemTest86) every 6–12 months.
+
+	Test PSU output if you experience random reboots or shutdowns.
+
+	Check GPU thermal performance using tools like MSI Afterburner.
+
+	Calibrate UPS or surge protectors annually if you're using them. 
+
+
+
